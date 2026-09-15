@@ -59,12 +59,13 @@ const geraldo = {
   <img src="https://skillicons.dev/icons?i=js,nodejs,express,mysql,python,django,php,html,css,git,github,wordpress&theme=dark&perline=6" alt="JavaScript, Node.js, Express, MySQL, Python, Django, PHP, HTML, CSS, Git, GitHub e WordPress" />
 </div>
 
-## `> atividade`
+## `> atualmente`
 
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=geraldomartins-dev&show_icons=true&hide_border=true&bg_color=0D100D&title_color=C6FF67&icon_color=A98AFF&text_color=E8EBE3&locale=pt-br" alt="Estatísticas do GitHub" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=geraldomartins-dev&layout=compact&hide_border=true&bg_color=0D100D&title_color=C6FF67&text_color=E8EBE3&locale=pt-br" alt="Linguagens mais usadas" />
-</div>
+```text
+▸ construindo aplicações web full-stack
+▸ aprofundando conhecimentos em segurança e infraestrutura
+▸ transformando problemas reais em projetos que podem ser demonstrados
+```
 
 <div align="center">
   <sub>Problema → análise → código → impacto.</sub>
